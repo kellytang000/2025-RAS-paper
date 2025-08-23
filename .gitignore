@@ -1,0 +1,4 @@
+.DS_Store
+/Datasets/*
+/Jupyter Files/*.feather
+/Jupyter Files/*.csv
